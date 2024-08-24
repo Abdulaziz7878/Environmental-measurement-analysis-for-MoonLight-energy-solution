@@ -8,23 +8,23 @@ The data analysis is in the folder notebooks and there is three different Jupyte
 
 ## Project Structure
 
-├── .vscode/
-├── .github/workflows
-├── .gitignore
-├── requirements.txt
-├── README.md
-├── src/
-| └──**init**.py
-├── notebooks/
-│ └── **init**.py
-│ └── Bennin_Malanville.ipynb
-│ └── Bierraleone_Bumbuna.ipynb
-│ └── Togo-Dapaong_qc.ipynb
-│ └── README.md
-├── tests/
-│ └── **init**.py
-└── scripts/
-└── **init**.py
+├── .vscode/  
+├── .github/workflows  
+├── .gitignore  
+├── requirements.txt  
+├── README.md  
+├── src/  
+| └──**init**.py  
+├── notebooks/  
+│ └── **init**.py  
+│ └── Bennin_Malanville.ipynb  
+│ └── Bierraleone_Bumbuna.ipynb  
+│ └── Togo-Dapaong_qc.ipynb  
+│ └── README.md  
+├── tests/  
+│ └── **init**.py  
+└── scripts/  
+└── **init**.py  
 └── README.md
 
 ## Project Goals
